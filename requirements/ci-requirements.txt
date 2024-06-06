@@ -3,7 +3,7 @@
 # don't get different results from using them.
 flake8==5.0.4
 mypy==0.982
-black==22.6.0
+black==24.3.0
 isort==5.10.1
 
 pytest
